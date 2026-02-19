@@ -1,0 +1,6 @@
+# --- Core AI & Computer Vision ---
+ultralytics         
+opencv-python       
+torch               # PyTorch (Deep Learning framework)
+torchvision         # PyTorch computer vision utilities
+deep-sort-realtime  
